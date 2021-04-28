@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import { useDispatch, useSelector } from "react-redux";
-import { decrement, increment } from "./redux/CounterSlice";
+import {useDispatch, useSelector} from "react-redux";
+import {increment, decrement} from "./redux/CounterSlice";
 
 
 
